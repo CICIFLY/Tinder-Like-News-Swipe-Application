@@ -6,7 +6,8 @@ This is a Android project inspired by Tinder using Java.
 IDE: Android Studio
 Application Architecture: MVVM 
 
-1.The application comes with a single activity and 4 major fragments ( Home Fragment , SearchFragment , SavedFragment and Item Details )
+1.The application comes with a single activity and 4 major fragments 
+( Home Fragment , SearchFragment , SavedFragment and Item Details )
 
 <img width="465" alt=" project structure" src="https://user-images.githubusercontent.com/27842254/140228956-c27913d6-36d1-4c91-b11b-6a91004689de.png">
 
@@ -26,7 +27,7 @@ Users are able to click on the heart icon to unlike/unsave the news
 
 <img width="338" alt="Main Interface" src="https://user-images.githubusercontent.com/27842254/140229050-515f7830-205c-4622-ae99-d4769fecd2c3.png">
 
-![image](https://user-images.githubusercontent.com/27842254/140231897-dfabe1d6-1c1c-42a8-a833-0786fd932ee4.png)
+
 
 
 <img width="337" alt="saved item details" src="https://user-images.githubusercontent.com/27842254/140229099-a24e1d16-1fa6-49ad-b264-312ce04a75e3.png">
