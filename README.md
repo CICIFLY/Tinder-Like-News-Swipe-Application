@@ -22,8 +22,10 @@ It can also be achieved by using the thumb up and thumb down buttons instead of 
 (2).Search fragment: type key words to search for news.
 
 
-(3).Save fragment: displays all the news that the user has liked/swiped right/thumbed up, 
-Users are able to click on the heart icon to unlike/unsave the news
+(3).Save fragment: displays all the news that the user has liked/swiped right/thumbed up.
+
+Users are able to click on the heart icon to unlike/unsave the news, scroll up and down of the saved news
+
 
 (4).Item details fragment: click on the news image tiles to read the details of the news
 
