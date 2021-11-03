@@ -47,7 +47,7 @@ Built the Room Database with LiveData & ViewModel to support local cache and off
 Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint (newsapi.org)
 
 
-reference:
+#### reference:
 https://www.geeksforgeeks.org/tinder-swipe-view-with-example-in-android/
 
 https://github.com/yuyakaido/CardStackView
