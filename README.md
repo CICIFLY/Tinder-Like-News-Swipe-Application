@@ -4,6 +4,7 @@
 ## 1.Intro: This is a Android project inspired by Tinder using Java.
 
 IDE: Android Studio
+
 Application Architecture: MVVM 
 
 <img width="465" alt=" project structure" src="https://user-images.githubusercontent.com/27842254/140228956-c27913d6-36d1-4c91-b11b-6a91004689de.png">
