@@ -49,5 +49,7 @@ Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL end
 
 reference:
 https://www.geeksforgeeks.org/tinder-swipe-view-with-example-in-android/
+
 https://github.com/yuyakaido/CardStackView
+
 https://github.com/Lucie-Wang
